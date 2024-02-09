@@ -3,7 +3,7 @@
 RDDL is a *compact, easily modifiable representation language for discrete time control in dynamic stochastic environments*. 
 It's main feature is object-oriented relational (template) specification, which allows easy scaling of model instances from 1 object to 1000's of objects without changing the domain model.
 
-![heating a residential unit where model instances are determined by the layout of the unit](hvac.png)
+![heating a residential unit where model instances are determined by the layout of the unit](https://github.com/pyrddlgym-project/.github/blob/main/profile/hvac.png)
 
 This organization hosts a variety of packages designed to help formulate and solve problems that can be described in RDDL:
 * [pyRDDLGym](https://github.com/pyrddlgym-project/pyRDDLGym): automatically compiles RDDL description files into an OpenAI gym environment
