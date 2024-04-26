@@ -28,3 +28,4 @@ This organization hosts a variety of packages designed to help formulate and sol
     * [pyRDDLGym-rl](https://github.com/pyrddlgym-project/pyRDDLGym-rl): Trains and evaluates RL agents from popular packages (stable-baselines3, RLlib, etc.) in pyRDDLGym.
     * [pyRDDLGym-symbolic](https://github.com/pyrddlgym-project/pyRDDLGym-symbolic): Supports Dynamic Bayes Net (DBN) extraction and symbolic dynamic programming (SDP).
 * [RDDL-IDE](https://github.com/pyrddlgym-project/RDDL-IDE): a (work-in-progress) dedicated graphical IDE designed specifically for RDDL, running in Python (tk).
+* [rddl-vs-code](https://github.com/danielbdias/rddl-for-vscode): a Visual Studio Code syntax highlighting present designed specifically for RDDL domains.
