@@ -7,6 +7,7 @@ It's main feature is object-oriented relational (template) specification, which 
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/cartpole.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/drones.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/elevators.gif" width="120" height="120" margin=0/>
+<img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/hvac.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/mountaincar.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/powergen.gif" width="120" height="120" margin=0/>
 </p>
@@ -15,6 +16,7 @@ It's main feature is object-oriented relational (template) specification, which 
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/racecar.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/recsys.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/rovers.gif" width="120" height="120" margin=0/>
+<img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/traffic.gif" width="120" height="120" margin=0/>
 <img src="https://github.com/pyrddlgym-project/.github/blob/main/profile/Images/wildfire.gif" width="120" height="120" margin=0/>
 </p>
 
