@@ -3,26 +3,7 @@
 RDDL is a *compact, easily modifiable representation language for discrete time control in dynamic stochastic environments*. 
 It's main feature is object-oriented relational (template) specification, which allows easy scaling of model instances from 1 object to 1000's of objects without changing the domain model.
 
-<p align="middle">
-<img src="Images/cartpole.gif" width="120" height="120" margin=0/>
-<img src="Images/drones.gif" width="120" height="120" margin=0/>
-<img src="Images/elevators.gif" width="120" height="120" margin=0/>
-<img src="Images/hvac.gif" width="120" height="120" margin=0/>
-<img src="Images/intruders.gif" width="120" height="120" margin=0/>
-<img src="Images/mountaincar.gif" width="120" height="120" margin=0/>
-<img src="Images/pendulum.gif" width="120" height="120" margin=0/>
-<img src="Images/pong.gif" width="120" height="120" margin=0/>
-<img src="Images/powergen.gif" width="120" height="120" margin=0/>
-<img src="Images/quadcopter.gif" width="120" height="120" margin=0/>
-<img src="Images/racecar.gif" width="120" height="120" margin=0/>
-<img src="Images/reacher.gif" width="120" height="120" margin=0/>
-<img src="Images/recsys.gif" width="120" height="120" margin=0/>
-<img src="Images/reservoir.gif" width="120" height="120" margin=0/>
-<img src="Images/rovers.gif" width="120" height="120" margin=0/>
-<img src="Images/traffic.gif" width="120" height="120" margin=0/>
-<img src="Images/uav.gif" width="120" height="120" margin=0/>
-<img src="Images/wildfire.gif" width="120" height="120" margin=0/>
-</p>
+<img src="Images/examples.gif" margin=0/>
 
 This organization hosts a variety of packages designed to help formulate and solve problems that can be described in RDDL:
 * [pyRDDLGym](https://github.com/pyrddlgym-project/pyRDDLGym): automatically compiles RDDL description files into an OpenAI gym environment
